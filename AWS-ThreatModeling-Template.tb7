@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KnowledgeBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Manifest name="AWS Threat Model Template" id="b3626a17-9sjn-9sbh-3kb8-afdb15eb36c4" version="2.0.0.0" author="Tyler Martin" />
+  <Manifest name="AWS_Template_v2" id="9aee5091-f48f-4f9f-832c-7e4543d515da" version="1.0.0.1" author="TMART\tmart" />
   <ThreatMetaData>
     <IsPriorityUsed>true</IsPriorityUsed>
     <IsStatusUsed>true</IsStatusUsed>
